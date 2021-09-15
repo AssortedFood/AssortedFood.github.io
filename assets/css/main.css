@@ -3200,7 +3200,7 @@ input, select, textarea {
 			-moz-transform: scale(0.8) rotate(-30deg);
 			-webkit-transform: scale(0.8) rotate(-30deg);
 			-ms-transform: scale(0.8) rotate(-30deg);
-			transform: scale(0.8) rotate(-30deg);
+			transform: scale(0.8) rotate(-22.5deg);
 		}
 
 /* Nav */
